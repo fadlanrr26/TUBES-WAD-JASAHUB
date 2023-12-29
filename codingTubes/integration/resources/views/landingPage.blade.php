@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Switch Template</title>
+    <title>jasaHUB</title>
     <link href="https://fonts.googleapis.com/css?family=Heebo:400,700|IBM+Plex+Sans:600" rel="stylesheet">
     <link rel="stylesheet" href="dist/css/style.css">
     <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
@@ -53,9 +53,9 @@
 								<img class="hero-media-illustration-image asset-dark" src="dist/images/hero-media-illustration-dark.svg" alt="Hero media illustration">
 							</div>
 							<div class="hero-media-container">
-								<img class="hero-media-image asset-light" src="dist/images/orgKerja.png" alt="Hero media" style="width: 75%">
+								<img class="hero-media-image asset-light" src="dist/images/gambar 2.jpg" alt="Hero media" style="width: 75%">
 								{{-- <img class="hero-media-image asset-light" src="dist/images/hero-media-light.svg" alt="Hero media"> --}}
-								<img class="hero-media-image asset-dark"  src="dist/images/orgKerja.png" alt="Hero media" style="width: 75%">
+								<img class="hero-media-image asset-dark"  src="dist/images/gambar 2.jpg" alt="Hero media" style="width: 75%">
 								{{-- <img class="hero-media-image asset-dark" src="dist/images/hero-media-dark.svg" alt="Hero media"> --}}
 							</div>
 						</div>
@@ -74,10 +74,10 @@
                                 </p>
 								<div class="features-image">
 									<img class="features-illustration asset-dark" src="dist/images/features-illustration-dark.svg" alt="Feature illustration">
-									<img class="features-box asset-dark" src="dist/images/features-box-dark.svg" alt="Feature box">
+									<img class="features-box asset-dark" src="dist/images/gambar 1.jpg" alt="Feature box">
 									<img class="features-illustration asset-dark" src="dist/images/features-illustration-top-dark.svg" alt="Feature illustration top">
 									<img class="features-illustration asset-light" src="dist/images/features-illustration-light.svg" alt="Feature illustration">
-									<img class="features-box asset-light" src="dist/images/features-box-light.svg" alt="Feature box">
+									<img class="features-box asset-light" src="dist/images/gambar 1.jpg" alt="Feature box">
 									<img class="features-illustration asset-light" src="dist/images/features-illustration-top-light.svg" alt="Feature illustration top">
 								</div>
 							</div>

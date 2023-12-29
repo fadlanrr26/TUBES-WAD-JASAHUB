@@ -23,5 +23,28 @@ class HomeController extends Controller
     public function landingPage(){
         return view('landingPage');
     }
+
+    public function shop(){
+        return view('shop');
+    }
+    public function view(){
+        return view('viewproduct');
+    }
+
+    public function cart(){
+        return view('cart');
+    }
+
+    public function checkout(){
+        return view('checkout');
+    }
+
+    public function order(){
+        return view ('order');
+    }
+
+
+
+
 }
 
